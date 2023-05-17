@@ -22,7 +22,7 @@ class InformationActivity : AppCompatActivity() {
             val intent=Intent(this,MainActivity::class.java)
             startActivity(intent)
             btndial.setOnClickListener {
-                val phone = "+254711257900"
+                val phone = "+254721636533"
 
                 val intent = Intent(Intent.ACTION_DIAL, Uri.fromParts("tel", phone, null))
 

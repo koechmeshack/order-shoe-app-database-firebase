@@ -38,7 +38,7 @@
         android:layout_width="353dp"
         android:layout_height="188dp"
         android:text="welcome to our company, I would like to brief you about our company
-here we sell different kind of shoes, example Jordan shoes,Airforce shoes etc for more information about our company you can text"
+here we sell different kind of shoes, example Jordan shoes,Airforce shoes etc for more information about our company you can call me"
         android:textColor="#FFEB3B"
         android:textSize="20dp"
         app:layout_constraintBottom_toBottomOf="parent"
